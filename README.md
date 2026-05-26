@@ -1,26 +1,28 @@
-DSA Problem Solving (NeetCode) :
+DSA Problem Solving (NeetCode)
 
 Structured practice of Data Structures & Algorithms using NeetCode, focused on building strong problem-solving skills for technical interviews.
 
-Focus:
+ Focus
+Solve curated interview problems
+Write optimized and readable code
+Understand core problem-solving patterns
 
-Solve curated interview problems . write optimized and readable code . Understand core problem-solving patterns
-
-Topics:
+ Topics
 
 Arrays · Stack · Linked List · Trees · Graphs · Binary Search · Dynamic Programming
 
-Structure:
+Structure
 Data Structures & Algorithms/
 
- Progress:
- 
+ Progress
 Problems Solved: Updating
 Goal: 100+ problems
 Focus: Consistency and pattern recognition
 
+
  Resources
 https://neetcode.io/profile
+
 
  Author
 
