@@ -3,9 +3,7 @@ Structured practice of Data Structures & Algorithms using NeetCode, focused on b
 
 Focus:
 
-Solve curated interview problems
-Write optimized and readable code
-Understand core problem-solving patterns
+Solve curated interview problems . write optimized and readable code . Understand core problem-solving patterns
 
 Topics:
 
